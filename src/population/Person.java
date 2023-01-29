@@ -1,6 +1,7 @@
 package population;
 
 class Person {
+
   private String name;
   private String family;
   private Integer age;
